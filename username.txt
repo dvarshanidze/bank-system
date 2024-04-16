@@ -1,0 +1,10 @@
+username1     password1     1000
+username2     password2     2000
+username3     password3     500
+username4     password4     1500
+username5     password5     3000
+username6     password6     2500
+username7     password7     1800
+username8     password8     4000
+username9     password9     700
+username10    password10    3500
