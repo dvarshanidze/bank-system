@@ -21,9 +21,9 @@ struct money {
     long int money1;
 };
 
-void checkbalance(char username[]);
-void transfermoney(void);
-void display(char username[]);
+void checkbalance(char username[]); // err
+void transfermoney(void); // err
+void display(char username[]); // err
 void login(void);
 void account(void);
 void accountcreated(void);
