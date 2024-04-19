@@ -1,8 +1,1 @@
-The banking sector occupies a large part of the tertiary sector because which data maintained is too much by a single application. 
-Using C language we can create an application that can easily manage the data of the Bank.
-
-Functionalities:<br/>
-1.Transfer Money to the Account<br/>
-2.Creation of Account<br/>
-3.Check Amount<br/>
-4.Login Functionality<br/>
+##The financial industry dominates a significant portion of the service sector due to the immense volume of data handled by a singular application. With C programming language, I developed an application adept at efficiently managing banking data.
