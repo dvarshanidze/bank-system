@@ -21,7 +21,7 @@ struct money {
   long int money1;
 };
 
-void checkbalance(char username[]); // not yet implemented
+xvoid checkbalance(char username[]); // not yet implemented
 void transfermoney(void);           // not yet implemented
 void display(char username[]);      // not yet implemented
 void login(void);
@@ -140,8 +140,6 @@ void login(void) {
 
 void afterlogin(void) {
   printf("\nAfter login functionality is under construction...\n");
-  // check balance, transfer money, etc. needs to be fixed
-  // for now log out
   logout();
 }
 
